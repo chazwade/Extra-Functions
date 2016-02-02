@@ -5,6 +5,9 @@ Any contributions would be greatly appreciated in the form of a pull request, tr
 
 # Credits
 Chazwade - Author of the mod
-RenderedNull - Artist for this mod, and many other things
-All the open source mods out there that I have used to learn from!
+
+RenderedNull - Artist for this mod, and many other things,
+
+All the open source mods out there that I have used to learn from,
+
 You guys for playing the mod.
