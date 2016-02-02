@@ -1,0 +1,26 @@
+Data Types are int, boolean, and char.
+Variables are used to store values.
+Whitespace helps make code easy to read for you and others.
+Comments describe code and its purpose.
+Arithmetic Operators include +, -, *, /, and %.
+Relational Operators include <, <=, >, and >=.
+Equality Operators include == and !=.
+
+Boolean Operators: &&, ||, and ! are used to build Boolean expressions and have a defined order of operations
+Statements: if, if/else, and if/else if/else statements are used to conditionally execute blocks of code
+Ternary Conditional: a shortened version of an if/else statement that returns a value based on the value of a Boolean expression
+Switch: allows us to check equality of a variable or expression with a value that does not need to be a Boolean
+
+Class: a blueprint for how a data structure should function
+Constructor: instructs the class to set up the initial state of an object
+Object: instance of a class that stores the state of a class
+Method: set of instructions that can be called on an object
+Parameter: values that can be specified when creating an object or calling a method
+Return value: specifies the data type that a method will return after it runs
+Inheritance: allows one class to use functionality defined in another class
+
+For Loops: used to repeatedly run a block of code
+For Each Loops: a concise version of a for loop
+ArrayList: stores a list of data
+HashMap: stores keys and associated values like a dictionary
+
