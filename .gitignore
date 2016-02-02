@@ -12,7 +12,7 @@ out
 *.iws
 *.iml
 .idea
-.bat
+*.bat
 
 # gradle
 build
@@ -21,3 +21,4 @@ build
 # other
 eclipse
 run
+bat
